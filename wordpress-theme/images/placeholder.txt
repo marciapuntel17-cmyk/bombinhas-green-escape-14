@@ -1,0 +1,21 @@
+# WordPress Theme Images
+
+This folder should contain the following images for the theme to work properly:
+
+1. **hero-pousada.jpg** - Hero section background image
+2. **acomodacoes.jpg** - Accommodations section image  
+3. **cafe-da-manha.jpg** - Breakfast experience image
+4. **praia-bombinhas.jpg** - Beach attractions image
+
+These images should be optimized for web use and follow these guidelines:
+- Hero image: minimum 1920x1080px for full coverage
+- Section images: recommended 800x600px or similar aspect ratio
+- File format: JPEG for photos, PNG for graphics with transparency
+- Optimize for web to reduce file size while maintaining quality
+
+To add images:
+1. Upload your images to this /images/ folder
+2. Name them according to the list above
+3. Update the WordPress Customizer to reference your custom images if needed
+
+The theme will fall back to default placeholder content if images are not found.
