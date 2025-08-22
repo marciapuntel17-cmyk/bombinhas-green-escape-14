@@ -83,9 +83,9 @@ get_header(); ?>
                     <div class="card">
                         <div class="card-content">
                             <div class="card-icon">☕</div>
-                            <h3 class="card-title">Café Incluso</h3>
+                            <h3 class="card-title">Rico Café Matinal</h3>
                             <p class="card-description">
-                                Café da manhã fresquinho incluído na diária
+                                Deliciosos café da manhã, fresquinho e saudável
                             </p>
                         </div>
                     </div>

@@ -77,7 +77,7 @@ const Location = () => {
             <Card className="bg-muted border-border shadow-soft">
               <CardContent className="p-6">
                 <h4 className="text-xl font-semibold text-foreground mb-4">Endereço</h4>
-                <p className="text-muted-foreground mb-4">
+                <p className="text-muted-foreground mb-4 text-left">
                   Rua das Garoupas, 123<br />
                   Centro - Bombinhas, SC<br />
                   CEP: 88215-000

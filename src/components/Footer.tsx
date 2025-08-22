@@ -29,15 +29,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-primary" />
-                <a href="tel:+5548999999999" className="text-white/80 hover:text-white transition-smooth">
-                  (48) 99999-9999
-                </a>
+                <a href="tel:+5548999999999" className="text-white/80 hover:text-white transition-smooth">(47) 99252-1040</a>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-secondary" />
-                <a href="mailto:contato@pousadabombinhas.com.br" className="text-white/80 hover:text-white transition-smooth">
-                  contato@pousadabombinhas.com.br
-                </a>
+                <a href="mailto:contato@pousadabombinhas.com.br" className="text-white/80 hover:text-white transition-smooth">pousadapraiadebombinhascom.br</a>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-primary mt-0.5" />
