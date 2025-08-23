@@ -44,14 +44,16 @@
 - **Customize → Contact Section**
 - Set phone, email, and WhatsApp number
 
-### 📁 Required Images
+### 📁 Images Included ✅
 
-Create an `images/` folder in your theme directory and add:
+The theme now includes all required images in the `images/` folder:
 
-- `hero-pousada.jpg` (1920×1080px or larger)
-- `acomodacoes.jpg` (800×600px recommended)
-- `cafe-da-manha.jpg` (800×600px recommended)  
-- `praia-bombinhas.jpg` (800×600px recommended)
+- `hero-pousada.jpg` - Hero background image (1920×1080px)
+- `acomodacoes.jpg` - Accommodations image (800×600px)  
+- `cafe-da-manha.jpg` - Breakfast image (800×600px)
+- `praia-bombinhas.jpg` - Beach image (800×600px)
+
+No additional image setup required - the theme is ready to use!
 
 ### 🎯 Features
 
