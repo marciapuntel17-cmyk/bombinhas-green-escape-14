@@ -1,13 +1,26 @@
 <?php
 /**
- * Functions.php - Pousada Praia de Bombinhas Theme
- * Funções e configurações do tema
+ * Pousada Praia de Bombinhas Theme Functions
+ * 
+ * @package PousadaBombinhas
+ * @version 1.0
  */
 
-// Evitar acesso direto ao arquivo
+// Prevent direct access
 if (!defined('ABSPATH')) {
     exit;
 }
+
+// Theme constants
+define('POUSADA_THEME_VERSION', '1.0.0');
+define('POUSADA_THEME_DIR', get_template_directory());
+define('POUSADA_THEME_URI', get_template_directory_uri());
+
+// Include theme modules
+require_once POUSADA_THEME_DIR . '/inc/enqueue.php';
+require_once POUSADA_THEME_DIR . '/inc/customizer.php';
+require_once POUSADA_THEME_DIR . '/inc/security.php';
+require_once POUSADA_THEME_DIR . '/inc/seo.php';
 
 /**
  * Configuração inicial do tema
